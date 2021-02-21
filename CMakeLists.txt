@@ -12,3 +12,4 @@ pico_sdk_init()
 
 add_subdirectory(gpioled)
 add_subdirectory(gpioled2)
+add_subdirectory(adcled)
